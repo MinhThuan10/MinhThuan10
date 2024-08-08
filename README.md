@@ -80,3 +80,6 @@
 
 - [![AWS](https://img.shields.io/badge/-AWS-orange) Cloud Foundations](https://www.credly.com/badges/0d100b02-4ea9-4620-ac19-c3c5b179ed87/print)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
