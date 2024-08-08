@@ -78,8 +78,8 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![AWS](https://img.shields.io/badge/-AWS-orange) Cloud Foundations](https://www.credly.com/badges/0d100b02-4ea9-4620-ac19-c3c5b179ed87/print)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/certificate/YZ9U7MWHMVSL)
+- [![AWS](https://img.shields.io/badge/-AWS-orange) Cloud Foundations](https://github.com/MinhThuan10/MinhThuan10/blob/main/Certificate/PhanMinhThuan.pdf)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Data Engineering](https://github.com/MinhThuan10/MinhThuan10/blob/main/Certificate/IntroductionToDataEngineering.pdf)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python for Data Science, AI & Development](https://github.com/MinhThuan10/MinhThuan10/blob/main/Certificate/Python_for_Data_Science_and_AI_PhanMinhThuan.pdf)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Project for Data Engineering](https://github.com/MinhThuan10/MinhThuan10/blob/main/Certificate/Python_Project_for_Data_Engineering.pdf)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Relational Databases (RDBMS)](https://github.com/MinhThuan10/MinhThuan10/blob/main/Certificate/IntroductionToRelationalDatabase.pdf)
