@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Minh Thuan</h2>
 <p align="center">
-  <h3 align="center">A data engineer from Vietnam</h3>
+  <h3 align="center">AI Engineer from Vietnam</h3>
 </p>
 
 > ✍ I'm a student majoring in information systems at [HCMUTE](https://hcmute.edu.vn/).
